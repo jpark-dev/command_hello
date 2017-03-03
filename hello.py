@@ -1,5 +1,6 @@
 //For command line git practice
-//Local Repository modification
+//First GitHub modification
+//Second Local Repository modification
 print("Hello World")
 print("Tell Your World")
 print("Tell His World")
